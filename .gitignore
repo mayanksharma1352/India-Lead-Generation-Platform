@@ -1,0 +1,19 @@
+# Large datasets
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+
+# Database files
+*.db
+*.dump
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
